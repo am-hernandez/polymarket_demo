@@ -2,6 +2,8 @@
 
 A minimal, end-to-end example of authenticating a wallet and interacting with Polymarket's CLOB to create, list, and cancel orders.
 
+<img src="public/polymarket_demo.png" alt="Screenshot of the application" width="300" />
+
 ## Features
 
 - **Wallet Authentication**: Authenticate using a private key
