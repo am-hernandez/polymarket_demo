@@ -4,7 +4,7 @@ import { Wallet } from "ethers"; // v5.8.
 import { useEffect, useState } from "react";
 import { HOST, CHAIN_ID, SIGNATURE_TYPE_2 } from "../constants";
 
-export default function MakeOrder() {
+export default function CreateOrder() {
   const [orderID, setOrderID] = useState("");
   const [status, setStatus] = useState("");
   const [tokenIdYes, setTokenIdYes] = useState("");
